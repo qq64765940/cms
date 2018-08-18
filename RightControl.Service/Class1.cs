@@ -8,5 +8,6 @@ namespace RightControl.Service
 {
     public class Class1
     {
+        /////
     }
 }
